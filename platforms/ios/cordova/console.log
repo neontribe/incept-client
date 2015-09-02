@@ -1,0 +1,157 @@
+2015-08-25 11:10:07.285 HelloCordova[42125:2768680] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mottokrosh/Library/Developer/CoreSimulator/Devices/44AAE16B-E765-47C0-81A8-7C082B73081A/data/Containers/Data/Application/BDD2EF3A-EC1B-47D4-B829-856CC7B4F3D8/Library/Cookies/Cookies.binarycookies
+2015-08-25 11:10:07.597 HelloCordova[42125:2768680] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-25 11:10:07.597 HelloCordova[42125:2768680] Multi-tasking -> Device: YES, App: YES
+2015-08-25 11:10:07.614 HelloCordova[42125:2768680] Unlimited access to network resources
+2015-08-25 11:10:07.622 HelloCordova[42125:2768680] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-08-25 11:10:08.414 HelloCordova[42125:2768680] Resetting plugins due to page load.
+2015-08-25 11:10:08.533 HelloCordova[42125:2768680] Finished load of: file:///Users/mottokrosh/Library/Developer/CoreSimulator/Devices/44AAE16B-E765-47C0-81A8-7C082B73081A/data/Containers/Bundle/Application/0CB2C8B5-3570-4C19-BC29-76B211326897/HelloCordova.app/www/index.html
+2015-08-25 11:10:20.751 HelloCordova[42125:2768680] THREAD WARNING: ['InAppBrowser'] took '111.518066' ms. Plugin should use a background thread.
+2015-08-25 11:11:23.722 HelloCordova[42125:2768680] Can't find keyplane that supports type 5 for keyboard iPhone-PortraitChoco-PhonePad; using 3760611571_PortraitChoco_iPhone-Complex-Pad_Default
+2015-08-25 11:16:27.294 HelloCordova[42597:2796250] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-25 11:16:27.295 HelloCordova[42597:2796250] Multi-tasking -> Device: YES, App: YES
+2015-08-25 11:16:27.297 HelloCordova[42597:2796250] Unlimited access to network resources
+2015-08-25 11:16:27.299 HelloCordova[42597:2796250] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-08-25 11:16:27.455 HelloCordova[42597:2796250] Resetting plugins due to page load.
+2015-08-25 11:16:27.495 HelloCordova[42597:2796250] Finished load of: file:///Users/mottokrosh/Library/Developer/CoreSimulator/Devices/44AAE16B-E765-47C0-81A8-7C082B73081A/data/Containers/Bundle/Application/7B07CFD8-B55A-4DD1-A0C0-8BD69C6F1939/HelloCordova.app/www/index.html
+2015-08-25 11:16:36.672 HelloCordova[42597:2796250] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2015-08-25 11:16:36.677 HelloCordova[42597:2796250] THREAD WARNING: ['InAppBrowser'] took '70.157959' ms. Plugin should use a background thread.
+2015-08-25 11:16:36.699 HelloCordova[42597:2796250] CDVWebViewDelegate: Navigation started when state=1
+2015-08-25 11:16:36.699 HelloCordova[42597:2796250] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-08-25 11:16:36.701 HelloCordova[42597:2796250] Resetting plugins due to page load.
+2015-08-25 11:16:39.230 HelloCordova[42597:2796250] Finished load of: http://localhost:8000/
+2015-08-25 11:18:53.637 HelloCordova[42802:2811318] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-25 11:18:53.638 HelloCordova[42802:2811318] Multi-tasking -> Device: YES, App: YES
+2015-08-25 11:18:53.639 HelloCordova[42802:2811318] Unlimited access to network resources
+2015-08-25 11:18:53.641 HelloCordova[42802:2811318] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-08-25 11:18:53.776 HelloCordova[42802:2811318] Resetting plugins due to page load.
+2015-08-25 11:18:53.811 HelloCordova[42802:2811318] Finished load of: file:///Users/mottokrosh/Library/Developer/CoreSimulator/Devices/44AAE16B-E765-47C0-81A8-7C082B73081A/data/Containers/Bundle/Application/2A93E1D5-E77B-4BC5-930E-C84DB1771654/HelloCordova.app/www/index.html
+2015-08-25 11:19:02.299 HelloCordova[42802:2811318] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2015-08-25 11:19:02.305 HelloCordova[42802:2811318] THREAD WARNING: ['InAppBrowser'] took '61.188965' ms. Plugin should use a background thread.
+2015-08-25 11:19:02.326 HelloCordova[42802:2811318] CDVWebViewDelegate: Navigation started when state=1
+2015-08-25 11:19:02.326 HelloCordova[42802:2811318] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-08-25 11:19:02.327 HelloCordova[42802:2811318] Resetting plugins due to page load.
+2015-08-25 11:19:04.263 HelloCordova[42802:2811318] Finished load of: http://localhost:8000/
+2015-08-25 11:19:57.932 HelloCordova[42935:2816928] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-25 11:19:57.933 HelloCordova[42935:2816928] Multi-tasking -> Device: YES, App: YES
+2015-08-25 11:19:57.934 HelloCordova[42935:2816928] Unlimited access to network resources
+2015-08-25 11:19:57.937 HelloCordova[42935:2816928] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-08-25 11:19:58.112 HelloCordova[42935:2816928] Resetting plugins due to page load.
+2015-08-25 11:19:58.152 HelloCordova[42935:2816928] Finished load of: file:///Users/mottokrosh/Library/Developer/CoreSimulator/Devices/44AAE16B-E765-47C0-81A8-7C082B73081A/data/Containers/Bundle/Application/6123B756-73EE-4013-9EA8-9EF3B7A2E959/HelloCordova.app/www/index.html
+2015-08-25 11:20:06.371 HelloCordova[42935:2816928] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2015-08-25 11:20:06.377 HelloCordova[42935:2816928] THREAD WARNING: ['InAppBrowser'] took '71.082275' ms. Plugin should use a background thread.
+2015-08-25 11:20:06.431 HelloCordova[42935:2816928] webView:didFailLoadWithError - 102: Frame load interrupted
+2015-08-25 11:21:19.047 HelloCordova[43095:2825184] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-25 11:21:19.048 HelloCordova[43095:2825184] Multi-tasking -> Device: YES, App: YES
+2015-08-25 11:21:19.049 HelloCordova[43095:2825184] Unlimited access to network resources
+2015-08-25 11:21:19.051 HelloCordova[43095:2825184] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-08-25 11:21:19.175 HelloCordova[43095:2825184] Resetting plugins due to page load.
+2015-08-25 11:21:19.210 HelloCordova[43095:2825184] Finished load of: file:///Users/mottokrosh/Library/Developer/CoreSimulator/Devices/44AAE16B-E765-47C0-81A8-7C082B73081A/data/Containers/Bundle/Application/38B0B416-2440-4E9C-B4E8-75BB54369F15/HelloCordova.app/www/index.html
+2015-08-25 11:21:30.530 HelloCordova[43095:2825184] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2015-08-25 11:21:30.535 HelloCordova[43095:2825184] THREAD WARNING: ['InAppBrowser'] took '63.223145' ms. Plugin should use a background thread.
+2015-08-25 11:24:46.644 HelloCordova[43095:2825184] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2015-08-25 11:24:46.653 HelloCordova[43095:2825184] THREAD WARNING: ['InAppBrowser'] took '71.887207' ms. Plugin should use a background thread.
+2015-08-25 11:48:26.023 HelloCordova[45178:2926400] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-25 11:48:26.024 HelloCordova[45178:2926400] Multi-tasking -> Device: YES, App: YES
+2015-08-25 11:48:26.036 HelloCordova[45178:2926400] Unlimited access to network resources
+2015-08-25 11:48:26.040 HelloCordova[45178:2926400] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-08-25 11:48:26.243 HelloCordova[45178:2926400] Resetting plugins due to page load.
+2015-08-25 11:48:26.363 HelloCordova[45178:2926400] Finished load of: file:///Users/mottokrosh/Library/Developer/CoreSimulator/Devices/44AAE16B-E765-47C0-81A8-7C082B73081A/data/Containers/Bundle/Application/8DFA46DF-7A00-4B2F-8675-D6F1D925E87A/HelloCordova.app/www/index.html
+2015-08-25 11:48:36.054 HelloCordova[45178:2926400] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2015-08-25 11:48:36.061 HelloCordova[45178:2926400] THREAD WARNING: ['InAppBrowser'] took '99.487061' ms. Plugin should use a background thread.
+2015-08-25 11:50:21.987 HelloCordova[45361:2934570] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-25 11:50:21.988 HelloCordova[45361:2934570] Multi-tasking -> Device: YES, App: YES
+2015-08-25 11:50:21.989 HelloCordova[45361:2934570] Unlimited access to network resources
+2015-08-25 11:50:21.991 HelloCordova[45361:2934570] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-08-25 11:50:22.171 HelloCordova[45361:2934570] Resetting plugins due to page load.
+2015-08-25 11:50:22.258 HelloCordova[45361:2934570] Finished load of: file:///Users/mottokrosh/Library/Developer/CoreSimulator/Devices/44AAE16B-E765-47C0-81A8-7C082B73081A/data/Containers/Bundle/Application/5ABD04B6-143D-4E30-BA59-2BEDCB01586F/HelloCordova.app/www/index.html
+2015-08-25 11:50:31.303 HelloCordova[45361:2934570] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2015-08-25 11:50:31.308 HelloCordova[45361:2934570] THREAD WARNING: ['InAppBrowser'] took '65.027832' ms. Plugin should use a background thread.
+2015-08-25 11:51:32.836 HelloCordova[45491:2942984] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-25 11:51:32.837 HelloCordova[45491:2942984] Multi-tasking -> Device: YES, App: YES
+2015-08-25 11:51:32.838 HelloCordova[45491:2942984] Unlimited access to network resources
+2015-08-25 11:51:32.841 HelloCordova[45491:2942984] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-08-25 11:51:32.982 HelloCordova[45491:2942984] Resetting plugins due to page load.
+2015-08-25 11:51:33.019 HelloCordova[45491:2942984] Finished load of: file:///Users/mottokrosh/Library/Developer/CoreSimulator/Devices/44AAE16B-E765-47C0-81A8-7C082B73081A/data/Containers/Bundle/Application/ED2F0187-14F5-4021-8C38-0CAC6AE55035/HelloCordova.app/www/index.html
+2015-08-25 11:51:42.318 HelloCordova[45491:2942984] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2015-08-25 11:51:42.324 HelloCordova[45491:2942984] THREAD WARNING: ['InAppBrowser'] took '61.666016' ms. Plugin should use a background thread.
+2015-08-25 11:52:00.660 HelloCordova[45491:2942984] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2015-08-25 11:52:00.663 HelloCordova[45491:2942984] THREAD WARNING: ['InAppBrowser'] took '57.935791' ms. Plugin should use a background thread.
+2015-08-25 11:52:46.853 HelloCordova[45491:2942984] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2015-08-25 11:52:46.863 HelloCordova[45491:2942984] THREAD WARNING: ['InAppBrowser'] took '60.949219' ms. Plugin should use a background thread.
+2015-08-25 11:56:31.851 HelloCordova[45491:2942984] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2015-08-25 11:56:31.854 HelloCordova[45491:2942984] THREAD WARNING: ['InAppBrowser'] took '53.417236' ms. Plugin should use a background thread.
+2015-08-25 11:58:00.104 HelloCordova[45491:2942984] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2015-08-25 11:58:00.107 HelloCordova[45491:2942984] THREAD WARNING: ['InAppBrowser'] took '50.537109' ms. Plugin should use a background thread.
+2015-08-25 12:10:12.273 HelloCordova[45491:2942984] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2015-08-25 12:10:12.282 HelloCordova[45491:2942984] THREAD WARNING: ['InAppBrowser'] took '134.997070' ms. Plugin should use a background thread.
+2015-08-25 13:46:34.612 HelloCordova[49174:3125167] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-25 13:46:34.613 HelloCordova[49174:3125167] Multi-tasking -> Device: YES, App: YES
+2015-08-25 13:46:34.629 HelloCordova[49174:3125167] Unlimited access to network resources
+2015-08-25 13:46:34.639 HelloCordova[49174:3125167] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-08-25 13:46:35.125 HelloCordova[49174:3125167] Resetting plugins due to page load.
+2015-08-25 13:46:35.250 HelloCordova[49174:3125167] Finished load of: file:///Users/mottokrosh/Library/Developer/CoreSimulator/Devices/44AAE16B-E765-47C0-81A8-7C082B73081A/data/Containers/Bundle/Application/84D9DD16-9FEE-48D7-9B6C-986EC1E14FC6/HelloCordova.app/www/index.html
+2015-08-25 13:46:56.534 HelloCordova[49174:3125167] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2015-08-25 13:46:56.552 HelloCordova[49174:3125167] THREAD WARNING: ['InAppBrowser'] took '139.996826' ms. Plugin should use a background thread.
