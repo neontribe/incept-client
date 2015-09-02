@@ -1,0 +1,19 @@
+{
+  "name": "incept-client",
+  "version": "1.0.0",
+  "description": "Example mobile hybrid client for the Incept API",
+  "main": "www/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neontribe/incept-client.git"
+  },
+  "author": "Frank Reding <frank@neontribe.co.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neontribe/incept-client/issues"
+  },
+  "homepage": "https://github.com/neontribe/incept-client#readme"
+}
